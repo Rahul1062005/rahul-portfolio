@@ -17,7 +17,7 @@ A modern, responsive personal portfolio built with React and Vite. The site is d
 
 ## Live Demo
 
-- Vercel: https://your-vercel-link-here.vercel.app
+- Vercel: https://rahul-portfolio-new.vercel.app/
 
 ## Installation
 
