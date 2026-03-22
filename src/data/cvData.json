@@ -1,0 +1,187 @@
+{
+  "personal": {
+    "name": "Rahul Kumar",
+    "title": "Computer Science Undergraduate | Frontend and Security Enthusiast",
+    "tagline": "I build responsive, user-focused web experiences and apply security-first thinking to solve real engineering challenges.",
+    "location": "Punjab, India",
+    "email": "rahul0257257@gmail.com",
+    "phone": "+91-8172884361",
+    "website": "https://www.linkedin.com/in/rahul0257/",
+    "resumeLink": "https://www.linkedin.com/in/rahul0257/",
+    "avatar": "/photo1.png"
+  },
+  "socialLinks": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Rahul1062005",
+      "username": "Rahul1062005"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rahul0257/",
+      "username": "rahul0257"
+    }
+  ],
+  "sections": {
+    "summary": {
+      "heading": "About Me",
+      "paragraphs": [
+        "Building responsive and user-centric web products, I specialize in turning ideas into clean, scalable frontend implementations with React and modern JavaScript.",
+        "Developing practical, high-clarity interfaces, I focus on strong component architecture, smooth interactions, and consistent performance across devices.",
+        "Designing with a security mindset, I integrate safer coding practices and validation-first thinking to deliver reliable digital experiences."
+      ],
+      "highlights": [
+        "Building modern frontend applications with **React.js**, **Next.js**, and ES6+ JavaScript",
+        "Optimizing UI quality through structured problem-solving and clean implementation patterns",
+        "Delivering practical projects that combine usability, responsiveness, and engineering discipline",
+        "Applying a **security-first mindset** with hands-on exposure to packet analysis and network tools"
+      ]
+    },
+    "skills": {
+      "heading": "Skills",
+      "categories": [
+        {
+          "name": "Programming Languages",
+          "items": ["C++", "Python", "C (Basic)", "Java (Basic)", "Bash"]
+        },
+        {
+          "name": "Frontend",
+          "items": ["HTML5", "CSS3", "JavaScript (ES6+)", "React.js", "Next.js"]
+        },
+        {
+          "name": "Cybersecurity",
+          "items": ["Network Security", "Ethical Hacking Basics", "Packet Analysis"]
+        },
+        {
+          "name": "Developer Tools",
+          "items": ["Git", "VS Code", "Android Studio"]
+        },
+        {
+          "name": "Security Tools",
+          "items": ["Nmap", "Wireshark", "TryHackMe"]
+        },
+        {
+          "name": "Professional Skills",
+          "items": ["Problem-Solving", "Analytical Thinking", "Team Collaboration", "Continuous Learning"]
+        }
+      ]
+    },
+    "projects": [
+      {
+        "name": "Password Checking System",
+        "description": "Engineered an authentication-focused password validation tool that detects weak credentials and guides users toward stronger password practices.",
+        "stack": ["Python", "Regex", "String Processing", "Git", "GitHub"],
+        "live": "",
+        "repo": "https://github.com/Rahul1062005/Password-Checking-System",
+        "highlights": [
+          "Implemented robust password strength logic using regular expressions and rule-based checks",
+          "Automated validation across length, complexity, and character diversity criteria",
+          "Delivered real-time, actionable feedback to improve authentication hygiene"
+        ]
+      },
+      {
+        "name": "Responsive Website - Cinematic Movie Discovery Platform",
+        "description": "Built a modern movie discovery interface that enables seamless browsing across devices with intuitive navigation and engaging visual hierarchy.",
+        "stack": ["HTML", "CSS", "JavaScript", "Responsive Web Design", "Git", "GitHub"],
+        "live": "https://bindass-movies.vercel.app/",
+        "repo": "https://github.com/Rahul1062005/bindass-movies",
+        "highlights": [
+          "Designed a clean, mobile-first frontend experience for quick content exploration",
+          "Structured responsive layouts for consistent usability on desktop and mobile",
+          "Optimized page organization and interaction flow for better movie discovery"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Technology - Computer Science and Engineering",
+        "institution": "Lovely Professional University, Punjab, India",
+        "duration": "Aug 2023 - Present"
+      },
+      {
+        "degree": "Intermediate",
+        "institution": "H.D Jain College, Arrah, Bihar",
+        "duration": "Apr 2021 - Mar 2023",
+        "score": "Percentage: 76%"
+      },
+      {
+        "degree": "Matriculation",
+        "institution": "Delhi Public School, Arrah, Bihar",
+        "duration": "Apr 2020 - Mar 2021",
+        "score": "Percentage: 90%"
+      }
+    ],
+    "training": [
+      {
+        "title": "C++ Programming: OOPS and DSA",
+        "provider": "CSE Pathshala",
+        "duration": "Jun 2025 - Jul 2025",
+        "summary": "Completed 35+ hours of structured, hands-on training focused on object-oriented design and data structure implementation in C++.",
+        "highlights": [
+          "Practiced arrays, stacks, queues, and linked lists through coding assignments",
+          "Applied STL-based problem-solving with attention to time and space complexity",
+          "Strengthened algorithmic reasoning through guided assessments and practice"
+        ],
+        "credential": ""
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Master Generative AI and Generative AI Tools (ChatGPT and More)",
+        "org": "Udemy",
+        "date": "Aug 2025",
+        "issuer": "Udemy",
+        "year": "Aug 2025",
+        "image": "/Certificates/gen-ai-udemy.png",
+        "pdf": "/Certificates%20pdf/gen-ai-udemy.pdf",
+        "skills": ["Generative AI", "Prompt Engineering", "AI Tools"],
+        "credential": ""
+      },
+      {
+        "title": "Object Oriented Programming",
+        "org": "iamneo / Lovely Professional University",
+        "date": "Aug 2025 - Dec 2025",
+        "issuer": "iamneo / Lovely Professional University",
+        "year": "Aug 2025 - Dec 2025",
+        "image": "/Certificates/oop-iamneo.png",
+        "pdf": "/Certificates%20pdf/oop-iamneo.pdf",
+        "skills": ["OOP", "C++", "Problem Solving"],
+        "credential": ""
+      },
+      {
+        "title": "Computer Communications Specialization",
+        "org": "Coursera - University of Colorado",
+        "date": "Dec 2024",
+        "issuer": "Coursera - University of Colorado",
+        "year": "Dec 2024",
+        "image": "/Certificates/computer-communications-coursera.png",
+        "pdf": "/Certificates%20pdf/computer-communications-coursera.pdf",
+        "skills": ["Computer Networks", "Protocols", "Communication Systems"],
+        "credential": ""
+      },
+      {
+        "title": "Legacy JavaScript Algorithms and Data Structures",
+        "org": "freeCodeCamp",
+        "date": "Feb 2024",
+        "issuer": "freeCodeCamp",
+        "year": "Feb 2024",
+        "image": "/Certificates/js-algorithms-freecodecamp.png",
+        "pdf": "/Certificates%20pdf/js-algorithms-freecodecamp.pdf",
+        "skills": ["JavaScript", "Algorithms", "Data Structures"],
+        "credential": ""
+      }
+    ],
+    "achievements": [
+      "Earned 5-Star rank in C++ on HackerRank (Jan 2026), reflecting strong problem-solving consistency.",
+      "Secured a Top 5 position in the university hackathon Code of Duty (Mar 2024).",
+      "Built and presented a functional prototype within a 24-hour competitive hackathon window."
+    ],
+    "contact": {
+      "heading": "Contact",
+      "message": "I am actively exploring internship and entry-level software roles where I can contribute to frontend engineering and secure application development.",
+      "email": "rahul0257257@gmail.com",
+      "phone": "+91-8172884361",
+      "location": "Punjab, India"
+    }
+  }
+}
